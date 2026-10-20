@@ -26,8 +26,9 @@ while True:
             print(student["name"], "-", student["status"])
 
     elif choice == "3":
-        print("===Finishing the Attendance===")
+        print("=== Finishing the Attendance ===")
         break
 
     else:
         print("Invalid choice. Try again.")
+        
